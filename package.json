@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon node index.js"
+  },
+  "dependencies": {
+    "grammy": "^0.15.0",
+    "axios": "^0.24.0",
+    "dotenv": "^16.0.0"
+  }
+}
