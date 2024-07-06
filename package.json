@@ -5,8 +5,8 @@
     "dev": "nodemon node index.js"
   },
   "dependencies": {
-    "grammy": "^1.26.0",
-    "axios": "^0.24.0",
+    "grammy": "^1.26.1",
+    "axios": "^1.7.2",
     "dotenv": "^16.0.0"
   }
 }
